@@ -1,0 +1,6 @@
+cart/node_modules
+cart/package-lock.json
+container/node_modules
+container/package-lock.json
+products/node_modules
+products/package-lock.json
